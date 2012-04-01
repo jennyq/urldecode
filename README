@@ -1,0 +1,6 @@
+urldecode - a simple function to decode an encoded url.
+    
+Usage: 
+
+   url = 'http://www.example.com/this%20is%20my%20test%20%26%20%23%24'
+   decoded_url = urldecode(url)
